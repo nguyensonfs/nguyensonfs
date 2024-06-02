@@ -27,7 +27,6 @@ Web Developer
 
 <b>My GitHub Stats</b>
 <p align="center">
-<a href="http://www.github.com/nguyensonfs"><img src="https://github-readme-stats.vercel.app/api?username=nguyensonfs&show_icons=true&hide=issues,contribs&title_color=14b8a6&text_color=3382ed&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="nguyensonfs's GitHub stats" width="400"  /></a>
-
-<a href="http://www.github.com/nguyensonfs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyensonfs&stroke=3382ed&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=3382ed&currStreakLabel=14b8a6&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" width="400" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyensonfs&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nguyensonfs&theme=dark&hide_border=true" width="400">
 </p>
