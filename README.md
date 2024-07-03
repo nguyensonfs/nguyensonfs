@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/42088872/95290058-f13b9180-089e-11eb-94e3-a44a5a1172c3.jpg)
 
-<h1 align="center">Hi 👋, I'm Nguyên Hồng Sơn(nguyensonfs)</h1>
+<h1 align="center">Hi 👋, I'm Nguyễn Hồng Sơn(nguyensonfs)</h1>
 <h3 align="center">Full-stack dev NET</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyensonfs&label=Profile%20views&color=0e75b6&style=flat" alt="nguyensonfs" /> </p>
