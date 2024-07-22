@@ -1,5 +1,3 @@
-![banner](https://user-images.githubusercontent.com/42088872/95290058-f13b9180-089e-11eb-94e3-a44a5a1172c3.jpg)
-
 <h1 align="center">Hi 👋, I'm Nguyễn Hồng Sơn(nguyensonfs)</h1>
 <h3 align="center">Full-stack dev NET</h3>
 
